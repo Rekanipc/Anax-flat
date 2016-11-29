@@ -1,4 +1,3 @@
-####Troubleshoot
+####Contact
 
-* [Gitter Chat](https://gitter.im/mosbth/design)
-* [GitHub Issues](https://github.com/canax/anax-flat/issues)
+Any questions about this site can be emailed to [Rekani Cuneyd](https://www.RekaniCuneyd.se) on (Rekanipc@gmail.com).
